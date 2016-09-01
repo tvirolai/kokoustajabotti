@@ -1474,3 +1474,1237 @@ sending changed CSS file: resources/public/css/screen.css
 sending changed CSS file: resources/public/css/screen.css
 sending changed CSS file: resources/public/css/screen.css
 sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.849 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.414 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.613 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.717 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.505 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.637 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.566 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.627 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.454 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.712 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.577 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.338 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:23  column:49  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/new-sent[0m
+
+  [36m19[0m  [36m   [:div.jumbotron.vertical-center[0m
+  [36m20[0m  [36m    [:h3 @sent][0m
+  [36m21[0m  [36m    [:br][0m
+  [36m22[0m  [36m    [:br][0m
+  [33m23[0m  [1m    [:p [:a.btn.btn-primary.btn-lg {:on-click #(new-sent)} "Tuota uusi"]]]])[0m
+  [0m  [0m  [33m                                                ^--- Use of undeclared Var poytikset.core/new-sent[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(def pages[0m
+  [36m26[0m  [36m  {:home #'home-page})[0m
+  [36m27[0m  [36m[0m
+  [36m28[0m  [36m(defn page [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.768 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.49 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.457 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.575 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.467 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.482 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.466 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.597 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.548 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.574 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.581 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.287 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.512 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.544 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.609 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.525 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.551 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.585 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.451 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.549 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.542 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.423 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.54 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.563 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.537 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.411 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.494 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.496 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.501 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.41 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.304 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.266 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.829 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.629 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration missing[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration missing[0m
+  [36m35[0m  [36m  )[0m
+  [36m36[0m  [36m[0m
+  [36m37[0m  [36m;; -------------------------[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.565 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.579 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration "fn" should be a vector[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration "fn" should be a vector[0m
+  [36m35[0m  [36m  (fn [][0m
+  [36m36[0m  [36m    (js/setTimeout #(swap! timer inc) 5000)))[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.507 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration "fn" should be a vector[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration "fn" should be a vector[0m
+  [36m35[0m  [36m  (fn [][0m
+  [36m36[0m  [36m    (js/setTimeout #(swap! timer inc) 5000)))[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.519 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration "fn" should be a vector[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration "fn" should be a vector[0m
+  [36m35[0m  [36m  (fn [][0m
+  [36m36[0m  [36m    (js/setTimeout #(swap! timer inc) 5000)))[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.451 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration "fn" should be a vector[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration "fn" should be a vector[0m
+  [36m35[0m  [36m  (fn [][0m
+  [36m36[0m  [36m    (js/setTimeout #(swap! timer inc) 5000)))[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.548 seconds.[0m
+[36m----  Could not Analyze  src/cljs/poytikset/core.cljs   line:34  column:1  ----[0m
+
+  [1mParameter declaration "fn" should be a vector[0m
+
+  [36m32[0m  [36m      (recur (inc i)))))[0m
+  [36m33[0m  [36m[0m
+  [33m34[0m  [1m(defn inc-timer![0m
+  [0m  [0m  [33m^--- Parameter declaration "fn" should be a vector[0m
+  [36m35[0m  [36m  (fn [][0m
+  [36m36[0m  [36m    (js/setTimeout #(swap! timer inc) 5000)))[0m
+
+[36m----  Analysis Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.613 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.546 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.598 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.482 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.469 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.449 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.366 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.327 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.445 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.587 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.552 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:37  column:1  ----[0m
+
+  [1mcycle-sent at line 27 is being replaced[0m
+
+  [36m34[0m  [36m(defn inc-timer! [][0m
+  [36m35[0m  [36m  (js/setTimeout #(swap! timer inc) 100))[0m
+  [36m36[0m  [36m[0m
+  [33m37[0m  [1m(defn cycle-sent [][0m
+  [0m  [0m  [33m^--- cycle-sent at line 27 is being replaced[0m
+  [36m38[0m  [36m  (go[0m
+  [36m39[0m  [36m    (loop [i 0][0m
+  [36m40[0m  [36m      (new-sent!)[0m
+  [36m41[0m  [36m      (<! (timeout 15000))[0m
+  [36m42[0m  [36m      (recur (inc i)))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.688 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.328 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.572 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.52 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.34 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.571 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.393 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.455 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.527 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.573 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.374 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:55  column:49  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/reset!-time[0m
+
+  [36m51[0m  [36m   [:div.jumbotron[0m
+  [36m52[0m  [36m    [:h3 @sent][0m
+  [36m53[0m  [36m    [:h5 @timer]][0m
+  [36m54[0m  [36m   [:div[0m
+  [33m55[0m  [1m    [:a.btn.btn-primary.btn-lg {:on-click #(do (reset!-time) ( new-sent!))} "Tuota uusi"]]])[0m
+  [0m  [0m  [33m                                                ^--- Use of undeclared Var poytikset.core/reset!-time[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(def pages[0m
+  [36m58[0m  [36m  {:home #'home-page})[0m
+  [36m59[0m  [36m[0m
+  [36m60[0m  [36m(defn page [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.517 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.346 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:55  column:49  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/reset-time[0m
+
+  [36m51[0m  [36m   [:div.jumbotron[0m
+  [36m52[0m  [36m    [:h3 @sent][0m
+  [36m53[0m  [36m    [:h5 @timer]][0m
+  [36m54[0m  [36m   [:div[0m
+  [33m55[0m  [1m    [:a.btn.btn-primary.btn-lg {:on-click #(do (reset-time) ( new-sent!))} "Tuota uusi"]]])[0m
+  [0m  [0m  [33m                                                ^--- Use of undeclared Var poytikset.core/reset-time[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(def pages[0m
+  [36m58[0m  [36m  {:home #'home-page})[0m
+  [36m59[0m  [36m[0m
+  [36m60[0m  [36m(defn page [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.539 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.311 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.446 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.338 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.489 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.389 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.54 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.343 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.502 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.438 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.588 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.315 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.397 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:54  column:73  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m52[0m  [36m    [:h3 @sent][0m
+  [36m53[0m  [36m   [:div[0m
+  [33m54[0m  [1m    [:a.btn.btn-primary.btn-lg {:on-click #(new-sent!)} "Tuota uusi"]]])[0m
+  [0m  [0m  [33m                                                                        ^--- Unmatched delimiter )[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(def pages[0m
+  [36m57[0m  [36m  {:home #'home-page})[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.404 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:54  column:73  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m52[0m  [36m    [:h3 @sent][0m
+  [36m53[0m  [36m   [:div[0m
+  [33m54[0m  [1m    [:a.btn.btn-primary.btn-lg {:on-click #(new-sent!)} "Tuota uusi"]]])[0m
+  [0m  [0m  [33m                                                                        ^--- Unmatched delimiter )[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(def pages[0m
+  [36m57[0m  [36m  {:home #'home-page})[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.505 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.431 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.36 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:55  column:74  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m53[0m  [36m    [:p[0m
+  [36m54[0m  [36m   [:div[0m
+  [33m55[0m  [1m    [:a.btn.btn-primary.btn-lg {:on-click #(new-sent!)} "Tuota uusi"]]]])[0m
+  [0m  [0m  [33m                                                                         ^--- Unmatched delimiter )[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(def pages[0m
+  [36m58[0m  [36m  {:home #'home-page})[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.414 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.437 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.375 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.42 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.436 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.378 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.457 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.373 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.458 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.367 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.534 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.622 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.522 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.436 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.536 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.532 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.729 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.496 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.682 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.439 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.578 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.59 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.299 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.938 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.978 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.503 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.951 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.554 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.566 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.407 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.746 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.372 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.62 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.668 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.435 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.37 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.563 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.475 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.561 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.646 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.514 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.975 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.789 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.868 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.574 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.825 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.616 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.852 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.898 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.936 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.869 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.479 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.856 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.743 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.599 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.456 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.616 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.46 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.549 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.492 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.598 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.538 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.548 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.44 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.578 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.427 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.29 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.454 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.631 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.442 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.381 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:66  column:13  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m64[0m  [36m         [:button.btn.btn-default.navbar-btn[0m
+  [36m65[0m  [36m          {:on-click #(new-sent!)} "Kokousta lisää!"][0m
+  [33m66[0m  [1m         ]])))[0m
+  [0m  [0m  [33m            ^--- Unmatched delimiter )[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m(defn home-page [][0m
+  [36m69[0m  [36m  [:div.container.with-padding[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.422 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:66  column:13  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m64[0m  [36m         [:button.btn.btn-default.navbar-btn[0m
+  [36m65[0m  [36m          {:on-click #(new-sent!)} "Kokousta lisää!"][0m
+  [33m66[0m  [1m         ]])))[0m
+  [0m  [0m  [33m            ^--- Unmatched delimiter )[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m(defn home-page [][0m
+  [36m69[0m  [36m  [:div.container.with-padding[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.647 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.326 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.463 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.518 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.392 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.431 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.355 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.481 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.295 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.527 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.345 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.529 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.411 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.384 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:66  column:42  ----[0m
+
+  [1mEOF while reading, starting at line 66 and column 42[0m
+
+  [36m64[0m  [36m         [:button.btn.btn-info.navbar-btn[0m
+  [36m65[0m  [36m          {:on-click #(new-sent!)} "Kokousta lisää!"][0m
+  [33m66[0m  [1m         [:span.glyphicon.glyphicon-user [:style "padding-right: 30px";]]]]])))[0m
+  [0m  [0m  [33m                                         ^--- EOF while reading, starting at line 66 and column 42[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m(defn home-page [][0m
+  [36m69[0m  [36m  [:div.container[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.447 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.482 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.337 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.477 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.314 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.535 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.335 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.52 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.351 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/old.css
+sending changed CSS file: resources/public/css/new.css
+sending changed CSS file: resources/public/css/new.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.467 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.326 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.493 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.349 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.597 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.255 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.884 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.661 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.799 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.481 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.75 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.465 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.601 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.343 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.62 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.346 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.559 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.452 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.662 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.432 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.537 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.693 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.414 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.521 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.41 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.524 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.486 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.532 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.463 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.387 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.463 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+sending changed CSS file: resources/public/css/new.css
+sending changed CSS file: resources/public/css/new.css
+sending changed CSS file: resources/public/css/new.css
+sending changed CSS file: resources/public/css/new.css
+sending changed CSS file: resources/public/css/old.css
+sending changed CSS file: resources/public/css/old.css
+sending changed CSS file: resources/public/css/old.css
+sending changed CSS file: resources/public/css/old.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.858 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.15 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.96 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.63 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.025 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.815 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.932 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.824 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:32  column:1  ----[0m
+
+  [1mnew-sent! at line 27 is being replaced[0m
+
+  [36m28[0m  [36m  (go[0m
+  [36m29[0m  [36m    (let [response (<! (http/get "/generate"))][0m
+  [36m30[0m  [36m      (reset! sent (:body response)))))[0m
+  [36m31[0m  [36m[0m
+  [33m32[0m  [1m(defn new-sent! [][0m
+  [0m  [0m  [33m^--- new-sent! at line 27 is being replaced[0m
+  [36m33[0m  [36m  (go[0m
+  [36m34[0m  [36m    (let [response (<! (http/get "/generate"))][0m
+  [36m35[0m  [36m      (reset! sent (:body response)))))[0m
+  [36m36[0m  [36m[0m
+  [36m37[0m  [36m(defn cycle-sent [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.049 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.633 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.863 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.557 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.778 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.815 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.615 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:35  column:26  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/response[0m
+
+  [36m32[0m  [36m(defn new-pic! [][0m
+  [36m33[0m  [36m  (go[0m
+  [36m34[0m  [36m    (let [pic (<! (http/get "/picture"))][0m
+  [33m35[0m  [1m      (reset! pic (:body response)))))[0m
+  [0m  [0m  [33m                         ^--- Use of undeclared Var poytikset.core/response[0m
+  [36m36[0m  [36m[0m
+  [36m37[0m  [36m(defn cycle-sent [][0m
+  [36m38[0m  [36m  (go[0m
+  [36m39[0m  [36m    (loop [i 0][0m
+  [36m40[0m  [36m      (new-sent!)[0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.79 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.421 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.756 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.502 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.3 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.724 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.255 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.707 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.026 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.506 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.071 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.04 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.612 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.902 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.691 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.991 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.564 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.352 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.691 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.727 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.599 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.721 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.382 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.304 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.694 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.682 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.612 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.328 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.606 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.47 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.56 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.533 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.541 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.711 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.501 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[31mFailed to compile "target/cljsbuild/public/js/app.js" in 0.347 seconds.[0m
+[36m----  Could not Read  src/cljs/poytikset/core.cljs   line:34  column:5  ----[0m
+
+  [1mEOF while reading, starting at line 34 and column 5[0m
+
+  [36m32[0m  [36m(defn new-pic! [][0m
+  [36m33[0m  [36m  (go[0m
+  [33m34[0m  [1m    (let [pic (<! (http/get "/picture"))[0m
+  [0m  [0m  [33m    ^--- EOF while reading, starting at line 34 and column 5[0m
+  [36m35[0m  [36m          url (:body pic)][0m
+  [36m36[0m  [36m      (.log js/console (:body pic))[0m
+
+[36m----  Reader Error : Please see src/cljs/poytikset/core.cljs  ----[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.531 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.682 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:36  column:18  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/class[0m
+
+  [36m32[0m  [36m(defn new-pic! [][0m
+  [36m33[0m  [36m  (go[0m
+  [36m34[0m  [36m    (let [pic (<! (http/get "/picture"))[0m
+  [36m35[0m  [36m          url (:body pic)][0m
+  [33m36[0m  [1m      (js/alert (class url)))))[0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var poytikset.core/class[0m
+  [36m37[0m  [36m      [0m
+  [36m38[0m  [36m[0m
+  [36m39[0m  [36m(defn cycle-sent [][0m
+  [36m40[0m  [36m  (go[0m
+  [36m41[0m  [36m    (loop [i 0][0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.712 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.418 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.285 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.522 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.517 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.47 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.283 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.481 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.514 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.523 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.383 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.546 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.509 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:35  column:22  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/pictur[0m
+
+  [36m32[0m  [36m(defn new-pic! [][0m
+  [36m33[0m  [36m  (go[0m
+  [36m34[0m  [36m    (let [picture (<! (http/get "/picture"))[0m
+  [33m35[0m  [1m          url (:body pictur)][0m
+  [0m  [0m  [33m                     ^--- Use of undeclared Var poytikset.core/pictur[0m
+  [36m36[0m  [36m      ;(.log js/console url)[0m
+  [36m37[0m  [36m      (reset! pic url))))[0m
+  [36m38[0m  [36m[0m
+  [36m39[0m  [36m(defn cycle-sent [][0m
+  [36m40[0m  [36m  (go[0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.646 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.342 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/cljs/poytikset/core.cljs   line:35  column:22  ----[0m
+
+  [1mUse of undeclared Var poytikset.core/pictur[0m
+
+  [36m32[0m  [36m(defn new-pic! [][0m
+  [36m33[0m  [36m  (go[0m
+  [36m34[0m  [36m    (let [picture (<! (http/get "/picture"))[0m
+  [33m35[0m  [1m          url (:body pictur)][0m
+  [0m  [0m  [33m                     ^--- Use of undeclared Var poytikset.core/pictur[0m
+  [36m36[0m  [36m      ;(.log js/console url)[0m
+  [36m37[0m  [36m      (reset! pic url))))[0m
+  [36m38[0m  [36m[0m
+  [36m39[0m  [36m(defn cycle-sent [][0m
+  [36m40[0m  [36m  (go[0m
+
+[36m----  Compiler Warning : Please see src/cljs/poytikset/core.cljs  ----[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.648 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.362 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.493 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.441 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.484 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.384 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.313 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.575 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.506 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.361 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.601 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.456 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.557 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.729 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.351 seconds.[0m
+notifying browser that file changed:  out/poytikset/core.js

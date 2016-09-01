@@ -32,16 +32,30 @@ body {
 }
 
 .vertical-center {
-  margin:200px;
+  margin:20px;
   display: flex;
   align-items: center;
 }
 
-.Absolute-Center {
-  margin: auto;
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+.with-padding {
+  display: block;
+  margin: 0px auto;
 }
+
+#box {
+    height: 90px;
+    width: 270px;
+    background: #000;
+    font-size: 48px;
+    font-style: oblique;
+    color: #FFF;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 5px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
 
 @-moz-keyframes three-quarters-loader {
     0% {
@@ -77,4 +91,3 @@ body {
         transform: rotate(360deg);
     }
 }
-
