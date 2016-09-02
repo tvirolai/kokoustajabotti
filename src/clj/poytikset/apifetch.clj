@@ -3,12 +3,23 @@
             [clj-http.client :as client]
             [clojure.walk :refer [keywordize-keys]]))
 
-(def api-query "https://api.finna.fi/v1/search?lookfor=kokous&filter[]=online_boolean:%221%22&filter[]=format:%220/Image/%22")
+(def api "https://api.finna.fi/v1/search?lookfor=kokou*&filter[]=online_boolean:%221%22&filter[]=format:%220/Image/%22")
 
-(def t (:records (keywordize-keys (json/read-str (:body (client/get api-query))))))
+(defn get-results [] 
+ (let [page (inc (rand-int 651))]
+   (->> (str api "&page=" page)
+        (client/get)
+        (:body)
+        (json/read-str)
+        (keywordize-keys)
+        (:records))))
+
+(def resultset (get-results))
 
 (defn get-random-pic []
-  (let [index (rand-int (count t))
-        rec (get t index)
-        img (:images rec)]
+  (let [res (get-results)
+        index (rand-int (count res))
+        rec (get res index)
+        img (:images rec)
+        title (:title rec)]
     (str "http://api.finna.fi" (first img))))

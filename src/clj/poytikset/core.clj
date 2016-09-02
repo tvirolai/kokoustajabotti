@@ -46,4 +46,5 @@
   (.addShutdownHook (Runtime/getRuntime) (Thread. stop-app)))
 
 (defn -main [& args]
+  (println "Starting up on port 3000...")
   (start-app args))
