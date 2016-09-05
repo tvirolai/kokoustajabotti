@@ -45,6 +45,7 @@
 
   :plugins [[lein-cprop "1.0.1"]
             [lein-cljsbuild "1.1.4"]
+            [lein-watch "0.0.2"]
             [lein-immutant "2.1.0"]]
   :clean-targets ^{:protect false}
   [:target-path [:cljsbuild :builds :app :compiler :output-dir] [:cljsbuild :builds :app :compiler :output-to]]

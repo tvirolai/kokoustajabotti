@@ -7,7 +7,6 @@
             [secretary.core :as secretary :include-macros true]
             [goog.events :as events]
             [goog.history.EventType :as HistoryEventType]
-            [markdown.core :refer [md->html]]
             [poytikset.ajax :refer [load-interceptors!]]
             [ajax.core :refer [GET POST]])
   (:import goog.History))
@@ -15,9 +14,10 @@
 ;; -------------------------
 ;; Application state
 
-(def sent (r/atom ""))
+(def state (r/atom {:sent ""
+                    :pic ""}))
 
-(def pic (r/atom ""))
+(def interval (r/atom 10))
 
 (def timer (r/atom 0))
 
@@ -27,21 +27,13 @@
 (defn new-sent! []
   (go
     (let [response (<! (http/get "/generate"))]
-      (reset! sent (:body response)))))
+      (reset! state (assoc-in @state [:sent] (:body response))))))
 
 (defn new-pic! []
   (go
     (let [picture (<! (http/get "/picture"))
           url (:body picture)]
-      (reset! pic url))))
-
-(defn cycle-sent []
-  (go
-    (loop [i 0]
-      (new-sent!)
-      (new-pic!)
-      (<! (timeout 15000))
-      (recur (inc i)))))
+      (reset! state (assoc-in @state [:pic] url)))))
 
 (defn inc-time! []
   (go
@@ -53,7 +45,18 @@
 (defn reset-time! []
   (reset! timer 0))
 
+(defn reset-state! []
+  (do
+    (new-sent!)
+    (new-pic!)
+    (reset-time!)))
+
+(add-watch timer :watch
+           (fn [key atom old-state new-state]
+             (when (= @interval @timer) (reset-state!))))
+
 ;; -------------------------
+;  Render HTML
 
 (defn nav-link [uri title page collapsed?]
   [:li.nav-item
@@ -68,19 +71,20 @@
       [:nav.navbar.navbar-default
        [:div.container
         [:a.navbar-brand "Kokoustajarobotti"]
+        [:div.form-group 
         [:div.navbar-right
          [:button.btn.btn-info.navbar-btn
-          {:on-click #(new-sent!)} "Kokousta lisää!"]]]])))
+          {:on-click #(reset-state!)} "Kokousta lisää!"]]]]])))
 
 (defn home-page []
   [:div.container
    [:div.jumbotron
-    [:h3 @sent]]])
+    [:h3 (:sent @state)]]])
 
 (defn picture-area []
   [:div.container
    [:div.jumbotron
-    [:img.center-block {:src @pic}]]])
+    [:img.center-block {:src (:pic @state)}]]])
 
 (def pages
   {:home #'home-page})
@@ -90,7 +94,6 @@
 
 ;; -------------------------
 ;; Routes
-;(secretary/set-config! :prefix "#")
 
 (secretary/defroute "/" []
   (session/put! :page :home))
@@ -98,6 +101,7 @@
 ;; -------------------------
 ;; History
 ;; must be called after routes have been defined
+
 (defn hook-browser-navigation! []
   (doto (History.)
         (events/listen
@@ -108,8 +112,6 @@
 
 ;; -------------------------
 ;; Initialize app
-;(defn fetch-docs! []
-;  (GET (str js/context "/docs") {:handler #(session/put! :docs %)}))
 
 (defn mount-components []
   (r/render [#'navbar] (.getElementById js/document "navbar"))
@@ -118,6 +120,6 @@
 
 (defn init! []
   (hook-browser-navigation!)
+  (reset-state!)
   (inc-time!)
-  (cycle-sent)
   (mount-components))
