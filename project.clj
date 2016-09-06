@@ -13,6 +13,7 @@
                  [org.clojure/clojure "1.8.0"]
                  [org.clojure/core.async "0.2.385"]
                  [clj-http "2.2.0"]
+                 [ring-basic-authentication "1.0.5"]
                  [org.clojure/data.json "0.2.6"]
                  [cljs-http "0.1.41"]
                  [org.puimula.voikko/libvoikko "4.0.1"]

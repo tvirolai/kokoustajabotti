@@ -4,6 +4,7 @@
 /data/*.txt
 /checkouts
 /models/*.bin
+credentials.txt
 pom.xml
 *.jar
 *.class
